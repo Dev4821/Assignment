@@ -16,7 +16,7 @@ class HomeScreen extends StatelessWidget {
           children: [
             Image(
                 image: NetworkImage(
-                    'https://th.bing.com/th/id/R.1c4f0d50ece3845c03b7567094047f64?rik=Jchhh30tOiQziA&riu=http%3a%2f%2fyoppworks.com%2fwp-content%2fuploads%2f2016%2f12%2fTraining.jpg&ehk=3hGtd5LJukpQlaMo5mykmJ%2f%2fBtE3iUZdVcl6%2b%2blO4dQ%3d&risl=&pid=ImgRaw&r=0')),
+                    'https://tweakyourbiz.com/wp-content/uploads/2018/05/shutterstock_285147194.jpg')),
             ElevatedButton(
               onPressed: () {
                 Navigator.pushNamed(context, 'S0');
